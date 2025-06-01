@@ -66,10 +66,9 @@
 
 ## 🖥️ Demo
 
-![Screenshot 1]("C:\Users\saksh\Downloads\WhatsApp Image 2025-05-04 at 17.15.03_c2e18b08.jpg")  
-![Screenshot 2]("C:\Users\saksh\Downloads\WhatsApp Image 2025-05-04 at 17.15.03_055c6b97.jpg")
+![Screenshot 1]("./images/screenshot1.jpg")  
+![Screenshot 2]("./images/screenshot2.jpg")
 
-> 💡 *(Replace `./path-to-screenshot-X.png` with the actual image paths in your repo.)*
 
 ---
 
