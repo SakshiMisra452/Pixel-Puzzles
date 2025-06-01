@@ -93,6 +93,6 @@ The PCB was custom-designed for:
 
 ## 📬 Contact
 
-For **queries** or **collaboration**, feel free to reach out via **[LinkedIn]**(https://linkedin.com/in/sakshi-misra-10517424b) or **open an issue** in the repository.
+For **queries** or **collaboration**, feel free to reach out via [LinkedIn](https://linkedin.com/in/sakshi-misra-10517424b) or **open an issue** in the repository.
 
 
