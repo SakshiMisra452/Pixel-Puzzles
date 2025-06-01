@@ -82,10 +82,10 @@ The PCB was custom-designed for:
 
 ## 👥 Team Credits
 
-- **Anshika Gupta**(linkedin.com/in/anshika-gupta-8b2a64251)
-- **Sakshi Misra**(linkedin.com/in/sakshi-misra-10517424b)
-- **Shagun Balutia**(linkedin.com/in/shagunbalutia8193)
-- **Tamana Choudhary**(linkedin.com/in/tamana-choudhary-1a9b66295)
+- **Anshika Gupta**
+- **Sakshi Misra**
+- **Shagun Balutia**
+- **Tamana Choudhary**
 
 **Special thanks** to our mentors and reviewers who provided valuable guidance throughout the project.
 
